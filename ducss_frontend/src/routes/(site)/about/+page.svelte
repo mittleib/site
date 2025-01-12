@@ -114,37 +114,37 @@
 
     .committee-container {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Increased the minmax values for larger items */
-        gap: 24px; /* Increased gap for better spacing */
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+        gap: 24px;
         padding: 16px;
     }
 
     .committee-member {
         background-color: hsla(208, 12%, 95%, 1.0);
         border: 1px solid hsl(208, 12%, 85%);
-        border-radius: 12px; /* Slightly larger border radius for better aesthetics */
-        padding: 24px; /* Increased padding */
+        border-radius: 12px;
+        padding: 24px;
         text-align: center;
-        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Slightly stronger shadow */
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
     }
 
     h2 {
         color: hsl(35, 95%, 58%);
-        font-size: 1.5rem; /* Slightly larger font size */
+        font-size: 1.5rem;
         margin-bottom: 12px;
     }
 
     h3 {
-        font-size: 1.125rem; /* Increased font size */
+        font-size: 1.125rem;
         margin-bottom: 20px;
     }
 
     .committee-member-image {
-        width: 200px; /* Increased image size */
-        height: 200px; /* Increased image size */
+        width: 200px;
+        height: 200px; 
         object-fit: cover;
-        border-radius: 12px; /* Slightly larger border radius for the image */
-        border: 3px solid hsl(35, 95%, 58%); /* Thicker border */
+        border-radius: 12px;
+        border: 3px solid hsl(35, 95%, 58%);
     }
 
     @media (max-width: 600px) {
@@ -153,7 +153,7 @@
         }
 
         .committee-member {
-            padding: 32px; /* Reduced padding for smaller screens */
+            padding: 32px;
         }
 
         h2 {
@@ -165,12 +165,12 @@
         }
 
         .committee-member-image {
-            width: 250px; /* Reduced image size for smaller screens */
-            height: 250px; /* Reduced image size for smaller screens */
+            width: 250px;
+            height: 250px;
         }
 
         .committee-container {
-            gap: 32px; /* Larger gap between items */
+            gap: 32px;
         }
     }
 </style>
