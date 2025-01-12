@@ -43,10 +43,12 @@
             <li>
                 <a class="nav-button" href="/events">Events</a>
             </li>
+
+        -->
             <li>
                 <a class="nav-button" href="/about">About</a>
             </li>
-        -->
+
             <li>
                 <a class="nav-button" href="/sponsors">Sponsors</a>
             </li>
