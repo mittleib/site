@@ -34,8 +34,7 @@
         </div>
         <ul>
             <li>
-              <!--  <a class="nav-button" href="/store">Store</a> -->
-                <a class="nav-button" href="https://csball2025.myshopify.com/products/computer-science-ball-2025?variant=49900083282258&fbclid=PAY2xjawIa0a5leHRuA2FlbQIxMQABpr5dPOPs8F1Sp5E2IUC7j8FEkEOeSAo7DDKKcXfjAiXI0nTIfr8JbAFMOQ_aem_q9z0WQqqbAgUEZM8Y157Cg">Store</a>
+              <a class="nav-button" href="/store">Store</a>
             </li>
         <!--
             <li>
