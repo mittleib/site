@@ -21,7 +21,7 @@ import PassportCard from "$lib/components/PassportCard.svelte";
 </script>
 
 <div class="about-page">
-    <h1>The DUCSS Committee (2024/25)</h1>
+    <h1>The DUCSS Committee (2025/26)</h1>
     <div class="committee-container">
         <PassportCard name='Darragh Condron' description='Chair' image={Chair}/>
         <PassportCard name='Manuel Araújo' description='Treasurer' image={Treasurer}/>
