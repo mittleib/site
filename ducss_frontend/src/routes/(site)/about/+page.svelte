@@ -26,7 +26,7 @@ import PassportCard from "$lib/components/PassportCard.svelte";
         <PassportCard name='Lucy Byrne' description='Chair' image={Chair}/>
         <PassportCard name='Mia Rolfe' description='Treasurer' image={Treasurer}/>
         <PassportCard name='Madalina Costovici' description='Secretary' image={Secretary}/>
-        <PassportCard name='Braastad-Korhonen' description='PRO' image={PRO}/>
+        <PassportCard name='Zara Braastad-Korhonen' description='PRO' image={PRO}/>
         <PassportCard name='Plooney' description='Tech Lead' image={TechLead}/>
         <PassportCard name='Elizabeth Gogová' description='Competitions' image={Competitions}/>
         <PassportCard name='Pavit Gogia' description='Gaming' image={Gaming}/>
