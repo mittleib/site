@@ -22,7 +22,7 @@
     </h1>
     <a class="sign-up-button" href="/contact-us">
         <!--Sign up link: https://trinitysocietieshub.com/collections/society-memberships/products/ducss-->
-        <h2 class="sign-up-text">Sponsor Us</h2>
+        <h2 class="sign-up-text">Contact Us</h2>
         <img class="Johnathan" src={Johnathan} alt="Our mascot, Johnathan DUCSS (Pronounced Ducks)"/>
         <img class="Johnathan_Stares" src={Johnathan_Stares_Into_Soul} alt="Our mascot, Johnathan DUCSS (Pronounced Ducks)"/>
     </a>
