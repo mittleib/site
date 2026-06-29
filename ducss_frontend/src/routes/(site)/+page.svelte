@@ -20,8 +20,9 @@
         <p class="open-bracket">&lt; </p> Dublin University Computer Science Society
         <p class="close-bracket">&#47;&gt;</p>
     </h1>
-    <a class="sign-up-button" href="https://trinitysocietieshub.com/collections/society-memberships/products/ducss">
-        <h2 class="sign-up-text">Join DUCSS</h2>
+    <a class="sign-up-button" href="/contact-us">
+        <!--Sign up link: https://trinitysocietieshub.com/collections/society-memberships/products/ducss-->
+        <h2 class="sign-up-text">Sponsor Us</h2>
         <img class="Johnathan" src={Johnathan} alt="Our mascot, Johnathan DUCSS (Pronounced Ducks)"/>
         <img class="Johnathan_Stares" src={Johnathan_Stares_Into_Soul} alt="Our mascot, Johnathan DUCSS (Pronounced Ducks)"/>
     </a>
